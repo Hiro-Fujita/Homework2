@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec397108-286a-4dd8-97a3-3507447c3672" name="Default Changelist" comment="" />
+    <list default="true" id="ec397108-286a-4dd8-97a3-3507447c3672" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Hiro-Fujita/sept18" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hh5wPwedAXhZPcPzeHxTzA4hcY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +52,16 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://web.njit.edu/-hf6/fall2020is117/about.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600450721938</updated>
       <workItem from="1600450722982" duration="1217000" />
+      <workItem from="1600460749544" duration="5842000" />
     </task>
     <servers />
   </component>
@@ -46,13 +79,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="178" key="#Deployment" timestamp="1600450955332">
+    <state x="1032" y="178" key="#Deployment" timestamp="1600466014287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1600450955332" />
+    <state x="1032" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1600466014287" />
     <state x="1016" y="165" key="#SSH_Configurations" timestamp="1600450847690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1016" y="165" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1600450847690" />
+    <state x="1323" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600463004271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1323" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600463004271" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600461152002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600461152002" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1600460772100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600460772100" />
+    <state x="772" y="218" key="Github.UntrackedFilesDialog" timestamp="1600460849680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600460849680" />
+    <state x="1345" y="261" key="webDeployment.PermissionsDialog.Tabs" timestamp="1600462812798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1345" y="261" key="webDeployment.PermissionsDialog.Tabs/0.0.1920.1040@0.0.1920.1040" timestamp="1600462812798" />
   </component>
 </project>

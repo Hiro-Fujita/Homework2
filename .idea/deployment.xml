@@ -7,6 +7,9 @@
           <mappings>
             <mapping deploy="/fall2020is117" local="$PROJECT_DIR$" web="/fall2020is117" />
           </mappings>
+          <excludedPaths>
+            <excludedPath path="/fall2020is117/somefolder" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
